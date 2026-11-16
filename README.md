@@ -4,6 +4,8 @@ A small ETL pipeline that downloads athlete earnings and tennis data, cleans it,
 runs data quality checks, and loads it into a database (a local practice database or Supabase).
 
 ## Key findings
+📊 **Presentation:** [Project slides (PDF)](docs/Athlete_Earnings_Pipeline.pdf)
+
 - **Tennis players earn about 78% of their income from endorsements.** NBA and soccer
   players earn most of their money from salary; for tennis players, prize money
   is only about a fifth of their income.
